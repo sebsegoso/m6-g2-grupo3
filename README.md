@@ -61,3 +61,17 @@ Requisitos:
 4. _GET: Cuarto evento_
 
 ![Cuarto evento](README_assets/image-3.png)
+
+## Correr proyecto
+
+1. Instalar dependencias
+
+```bash
+    npm install
+```
+
+2. Levantar servidor
+
+```shell
+    nodemon server.js
+```
